@@ -4,6 +4,8 @@ import java.util.Objects;
 
 import java.util.List;
 
+// work on the constructor for this file
+
 public class SoftwareEngineer {
     private Integer id;
     private String name;

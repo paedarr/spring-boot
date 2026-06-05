@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+// do more research on undersranding how the request mapping function works
 @RestController
 @RequestMapping("api/v1/bank-account")
 public class BankAccountController {
