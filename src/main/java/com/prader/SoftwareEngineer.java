@@ -5,6 +5,7 @@ import java.util.Objects;
 import java.util.List;
 
 // work on the constructor for this file
+// additionally, test POST requests with this
 
 public class SoftwareEngineer {
     private Integer id;
